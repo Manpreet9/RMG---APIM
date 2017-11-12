@@ -1,5 +1,5 @@
 node{
     stage'Build'
-        bat 'jmeter -n -t C:\\Users\\mamathar\\Projects\\LocalCollect_V2_PVT.jmx -l LocalCollect_V2_PVT.jtl'
+        bat 'jmeter -n -t C:\\Users\\mamathar\\Projects\\LocalCollect_V2_PVT.jmx -l LocalCollect_V2_PVT.csv'
     echo 'Build is Complete'
 }
